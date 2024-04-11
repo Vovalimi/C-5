@@ -1,0 +1,11 @@
+D:\C#.Net Krok\Task5\bin\Debug\Task5.exe.config
+D:\C#.Net Krok\Task5\bin\Debug\Task5.exe
+D:\C#.Net Krok\Task5\bin\Debug\Task5.pdb
+D:\C#.Net Krok\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+D:\C#.Net Krok\Task5\obj\Debug\Task5.csproj.SuggestedBindingRedirects.cache
+D:\C#.Net Krok\Task5\obj\Debug\Task5.Form1.resources
+D:\C#.Net Krok\Task5\obj\Debug\Task5.csproj.GenerateResource.cache
+D:\C#.Net Krok\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+D:\C#.Net Krok\Task5\obj\Debug\Task5.exe
+D:\C#.Net Krok\Task5\obj\Debug\Task5.pdb
+D:\C#.Net Krok\Task5\obj\Debug\Task5.Form2.resources
